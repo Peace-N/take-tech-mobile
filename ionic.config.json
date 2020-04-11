@@ -1,0 +1,7 @@
+{
+  "name": "take-tech-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
